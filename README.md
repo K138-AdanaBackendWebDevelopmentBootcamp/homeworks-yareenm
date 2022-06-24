@@ -1,7 +1,9 @@
 # Java_Bootcamp_HW1
 
 This is basic Java application implements School Management System.
+
 Features:
+
 • A Student could take zero or more courses.
 
 • Instructors could instruct at least one or more courses. 
