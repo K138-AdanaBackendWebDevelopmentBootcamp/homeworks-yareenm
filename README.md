@@ -1,6 +1,6 @@
 # Java_Bootcamp_HW1
 
-This is basic Java application implements School Management System.
+This is basic Java application that implements School Management System.
 
 Features:
 
