@@ -10,6 +10,6 @@ Features:
 
 • A course could be instructed by only one instructor.
 
-It does not implement cardinality in the code, but you can show the cardinality on the uml diagram.
+It does not implement cardinality in the code, but you can see the cardinality on the uml diagram.
 
 Thanks.
