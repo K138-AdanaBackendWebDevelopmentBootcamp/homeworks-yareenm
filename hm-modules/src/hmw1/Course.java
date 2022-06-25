@@ -1,10 +1,15 @@
 package hmw1;
 
+// Class name is Course. It has 3 attributes; related course name, course code and credit score.
+// e-mail: yareenm@outlook.com
+
 public class Course {
     private String courseName;
     private String courseCode;
     private int creditScore;
 
+    private Instructor instructor = new Instructor();
+    
     public Course(String courseName, String courseCode, int creditScore){
         this.courseName = courseName;
         this.courseCode = courseCode;
