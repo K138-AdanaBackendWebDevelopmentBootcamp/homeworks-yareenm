@@ -1,5 +1,8 @@
 package hmw1;
 
+// This class name is Visiting Researcher. It inherits from Instructor class.
+// It is a sub class.
+// e-mail: yareenm@outlook.com
 public class VisitingResearcher extends Instructor{
     private double hourlySalary;
 
