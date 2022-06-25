@@ -1,10 +1,14 @@
 package hmw1;
+import java.util.Objects;
 
+// This class name is Permanent Instructor. It inherits from Instructor class.
+// It is a sub class.
+// e-mail: yareenm@outlook.com
 public class PermanentInstructor extends Instructor {
     private double fixedSalary;
 
     public PermanentInstructor(String name, String address, String phoneNumber, double salary){
-        super(name,address,phoneNumber);
+        super(name,address,phoneNumber); //calling the super class constructor
         this.fixedSalary = salary;
     }
 
