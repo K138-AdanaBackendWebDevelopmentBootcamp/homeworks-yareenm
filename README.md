@@ -1,6 +1,8 @@
 # Java_Bootcamp_HW1
 
-This is a Spring Boot application implements School Management System.
+This is a Spring Boot application implements School Management System. 
+
+I will do this project homework again in the coming days.
 
 Features:
 
